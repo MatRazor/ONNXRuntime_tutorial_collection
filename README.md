@@ -6,7 +6,7 @@ In this repo, you are going to find a collection of ONNX Runtime tutorials writt
 
  Code can be run as standard ``.py`` file or exploit VS Code to run the code as Jupyter Notebook (https://code.visualstudio.com/docs/python/jupyter-support-py).
 
-### Scripts and tutorial exploited as references
+### Scripts and tutorials exploited
 
 ``bert_onnx.py``: check [here](https://github.com/microsoft/onnxruntime/blob/master/onnxruntime/python/tools/transformers/notebooks/PyTorch_Bert-Squad_OnnxRuntime_CPU.ipynb).
 
