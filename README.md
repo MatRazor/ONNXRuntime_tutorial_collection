@@ -1,6 +1,6 @@
 # ONNX Runtime collection of tutorials
 
-In this repo, you are going to find a collection of ONNX Runtime tutorials with some modification in part of the code to benchmark performances between standard inference of other frameworks and ONNX Runtime inference engine.
+In this repo, you are going to find a collection of ONNX Runtime tutorials written in python with some modification in part of the code to benchmark performances between standard inference of other frameworks and ONNX Runtime inference engine.
 
  CPU is the hardware platform targeted. Exploited MLAS + Eigen acceleration libraries from Microsoft.
 
